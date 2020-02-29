@@ -1,0 +1,5 @@
+#ignore any output cloud formation templates
+/cdk.out
+
+__pycache__/
+.vscode/
